@@ -1,5 +1,5 @@
 import Navbar from "@/components/Navbar";
-import { Mail, Phone, Linkedin, Download, ExternalLink, GraduationCap, Award, Briefcase, BookOpen } from "lucide-react";
+import { Mail, Linkedin, Download, ExternalLink, GraduationCap, Award, Briefcase, BookOpen } from "lucide-react";
 import { Separator } from "@/components/ui/separator";
 import { Button } from "@/components/ui/button";
 
@@ -40,11 +40,8 @@ const Index = () => {
         </p>
 
         <div className="mt-6 flex flex-wrap gap-4 text-sm text-muted-foreground">
-          <a href="mailto:romakalani@gmail.com" className="flex items-center gap-1.5 transition-colors hover:text-foreground">
-            <Mail className="h-4 w-4" /> romakalani@gmail.com
-          </a>
-          <a href="tel:+447401557779" className="flex items-center gap-1.5 transition-colors hover:text-foreground">
-            <Phone className="h-4 w-4" /> +44 7401 557779
+          <a href="mailto:romakalani89@gmail.com" className="flex items-center gap-1.5 transition-colors hover:text-foreground">
+            <Mail className="h-4 w-4" /> romakalani89@gmail.com
           </a>
           <a
             href="https://www.linkedin.com/in/romakalani/"
@@ -199,11 +196,8 @@ const Index = () => {
         <div className="text-center">
           <h2 className="mb-4 text-2xl">Get in Touch</h2>
           <div className="flex flex-wrap justify-center gap-6 text-sm text-muted-foreground">
-            <a href="mailto:romakalani@gmail.com" className="flex items-center gap-1.5 transition-colors hover:text-foreground">
-              <Mail className="h-4 w-4" /> romakalani@gmail.com
-            </a>
-            <a href="tel:+447401557779" className="flex items-center gap-1.5 transition-colors hover:text-foreground">
-              <Phone className="h-4 w-4" /> +44 7401 557779
+            <a href="mailto:romakalani89@gmail.com" className="flex items-center gap-1.5 transition-colors hover:text-foreground">
+              <Mail className="h-4 w-4" /> romakalani89@gmail.com
             </a>
             <a
               href="https://www.linkedin.com/in/romakalani/"
