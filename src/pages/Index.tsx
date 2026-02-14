@@ -175,7 +175,7 @@ const Index = () => {
         <SectionTitle icon={Award}>Recognitions</SectionTitle>
         <div className="space-y-4">
           {[
-            { title: "Outstanding Teacher Award", detail: "Fatima High School, 2018" },
+            { title: "Outstanding Teacher Award", detail: "AISU, USA, 2018" },
             { title: "Harvard South Asia Education Initiative", detail: "Research & policy engagement" },
             { title: "TEDx Curator", detail: "TEDxMICA — curated speaker programme" },
           ].map((a) => (
