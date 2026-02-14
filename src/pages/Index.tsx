@@ -171,9 +171,9 @@ const Index = () => {
         </div>
       </Section>
 
-      {/* ── Awards ── */}
+      {/* ── Recognitions ── */}
       <Section id="awards">
-        <SectionTitle icon={Award}>Distinctions & Awards</SectionTitle>
+        <SectionTitle icon={Award}>Recognitions</SectionTitle>
         <div className="space-y-4">
           {[
             { title: "Outstanding Teacher Award", detail: "Fatima High School, 2018" },
