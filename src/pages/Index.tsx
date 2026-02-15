@@ -113,9 +113,10 @@ const Index = () => {
         <SectionTitle icon={BookOpen}>Professional Qualifications</SectionTitle>
         <div className="space-y-4">
           {[
-            { title: "NPQ in Leading Teaching (NPQLT)", org: "UCL — Institute of Education", year: "2024" },
-            { title: "ECT Mentor Certification", org: "UCL — Institute of Education", year: "2023" },
-            { title: "SCITT Mentor Certification", org: "Sutton SCITT / NASBTT", year: "2024" },
+            { title: "National Professional Qualification in Leading Teaching (NPQLT)", org: "UCL", year: "2024" },
+            { title: "SCITT Mentor", org: "Sutton SCITT / NASBTT", year: "2024" },
+            { title: "ECT Mentor", org: "UCL", year: "2023" },
+            { title: "Teaching for Mastery", org: "MathsHubs London SouthWest, NCETM", year: "2022" },
           ].map((q) => (
             <div key={q.title} className="flex items-start gap-3">
               <span className="mt-1.5 h-2 w-2 shrink-0 rounded-full bg-accent" />
