@@ -140,12 +140,38 @@ const Index = () => {
           <p className="text-xs font-medium uppercase tracking-wide text-accent">2020 – Present</p>
           <h3 className="mt-1 text-lg">Glenthorne High School, Sutton</h3>
           <p className="mb-3 text-sm text-muted-foreground">Teacher of Mathematics</p>
+
+          <h4 className="mt-4 mb-2 text-sm font-semibold text-foreground">Teaching (2020–Present)</h4>
           <ul className="space-y-2 text-sm leading-relaxed text-muted-foreground">
-            <li><strong className="text-foreground">KS3 Coordinator —</strong> Redesigned the Year 7–9 curriculum aligned with White Rose, introduced half-termly assessments, and led standardisation meetings.</li>
-            <li><strong className="text-foreground">Numeracy Coordinator —</strong> Launched a whole-school numeracy strategy including Numeracy Ninjas, cross-curricular workshops, and a staff toolkit adopted across ten departments.</li>
-            <li><strong className="text-foreground">Instructional Coach —</strong> Line-managed four teachers using the Leverage Leadership model, delivering weekly observation–feedback cycles that improved T&L ratings.</li>
-            <li><strong className="text-foreground">Data & Intervention —</strong> Used assessment analysis to identify priority cohorts (including SEND, PP and underachieving pupils), reshaping intervention groups and monitoring impact through regular data review and work scrutiny.</li>
-            <li><strong className="text-foreground">SCITT & ECT Mentor —</strong> Mentored trainee and early-career teachers through structured programmes (UCL / Sutton SCITT).</li>
+            <li><strong className="text-foreground">KS3 —</strong> Secure transition and conceptual fluency through mastery-led teaching, combining disciplined practice with carefully designed variation, intelligent scaffolding and extension.</li>
+            <li><strong className="text-foreground">KS4 —</strong> Prepare pupils for GCSE through rigorous instruction in technique, reasoning and problem-solving, extending the most able through deeper tasks and proof, and securing exam readiness through deliberate practice and responsive use of assessment.</li>
+            <li><strong className="text-foreground">KS5 —</strong> Teach Edexcel A Level Mathematics and AQA Core Maths with a focus on conceptual coherence, mathematical modelling and application, and high standards of precision and independence.</li>
+          </ul>
+
+          <h4 className="mt-4 mb-2 text-sm font-semibold text-foreground">Line Management & Instructional Coaching (2022–Present)</h4>
+          <ul className="space-y-2 text-sm leading-relaxed text-muted-foreground">
+            <li>Line manage ECTs, ECT+1 colleagues, TAs and experienced staff, providing structured instructional coaching aligned to the ECF/ITT frameworks.</li>
+            <li>Deliver weekly coaching cycles (drop-ins, modelling and actionable feedback), using deliberate practice to improve classroom practice and professional habits.</li>
+            <li>Known for a high-challenge, high-support approach, setting ambitious standards while coaching with empathy, developing reflective practitioners and strengthening teaching quality.</li>
+            <li>Mentor SCITT trainee teachers through regular coaching, lesson observations, precise feedback and target-setting, supporting evidence against the Teachers' Standards and strong progress through the programme.</li>
+          </ul>
+
+          <h4 className="mt-4 mb-2 text-sm font-semibold text-foreground">KS3 Mathematics Coordinator (2022–2023 Maternity Cover; 2025–Present)</h4>
+          <ul className="space-y-2 text-sm leading-relaxed text-muted-foreground">
+            <li>Lead KS3 curriculum sequencing to increase rigour and strengthen progression into GCSE, securing conceptual coherence and cumulative knowledge.</li>
+            <li>Standardise assessment design and moderation, ensuring comparability across classes and alignment with GCSE expectations.</li>
+            <li>Lead data analysis to inform setting decisions and targeted interventions, monitoring progress of priority cohorts (SEND, PP, More Able) and adjusting provision accordingly.</li>
+            <li>Deliver CPD on mastery-informed teaching, formative assessment and literacy within Mathematics, strengthening consistency of classroom practice.</li>
+            <li>Conduct learning walks, work scrutiny and developmental observations, providing precise, actionable feedback to support staff improvement.</li>
+          </ul>
+
+          <h4 className="mt-4 mb-2 text-sm font-semibold text-foreground">Numeracy Coordinator (2022–2025)</h4>
+          <ul className="space-y-2 text-sm leading-relaxed text-muted-foreground">
+            <li>Led whole-school numeracy strategy, reviewing policy and aligning mathematical language (Tier 2 and Tier 3 vocabulary), representation and core routines across subjects.</li>
+            <li>Used assessment analysis to identify priority cohorts (including SEND, PP and underachieving pupils), reshaping intervention groups and monitoring impact through regular data review and work scrutiny.</li>
+            <li>Designed and delivered CPD for numeracy leads and support staff, including fortnightly TA development meetings to strengthen classroom implementation.</li>
+            <li>Line managed numeracy-focused TAs, including timetabling, deployment planning and ongoing professional development to maximise pupil progress.</li>
+            <li>Strengthened parental engagement in numeracy through structured communication around expectations, study routines and targeted support, improving home–school alignment.</li>
           </ul>
         </div>
 
