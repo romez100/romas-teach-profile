@@ -81,7 +81,7 @@ const Index = () => {
           {[
             {
               school: "Harvard Graduate School of Education",
-              degree: "Master in Education (M.Ed.) — International Education Policy",
+              degree: "Master in Education (M.Ed.)",
               years: "2016 – 2017",
               note: "Cambridge, MA, USA",
             },
