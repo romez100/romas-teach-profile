@@ -153,10 +153,10 @@ const Index = () => {
         <h3 className="mb-4 text-lg">Earlier Experience</h3>
         <div className="space-y-4">
           {[
-            { role: "Teacher of Mathematics", place: "Ashcroft Academy, Putney", years: "2019 – 2020" },
+            { role: "Teacher of Mathematics", place: "Ashcroft Technology Academy, London", years: "2020" },
             { role: "Teacher of Mathematics", place: "Fatima High School, Mumbai", years: "2018 – 2019" },
-            { role: "Graduate Teaching Fellow", place: "AISU / Harvard GSAS", years: "2016 – 2017" },
-            { role: "Teach for India Fellow", place: "Mumbai Municipal School", years: "2014 – 2016" },
+            { role: "Teacher of Mathematics/STEM", place: "AISU, Utah", years: "2017 – 2018" },
+            { role: "Teach for India Fellow", place: "Mumbai", years: "2014 – 2016" },
           ].map((r) => (
             <div key={r.place} className="flex items-start gap-3">
               <span className="mt-1.5 h-2 w-2 shrink-0 rounded-full bg-accent/50" />
