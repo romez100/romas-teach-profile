@@ -200,9 +200,9 @@ const Index = () => {
         <SectionTitle icon={Award}>Recognitions</SectionTitle>
         <div className="space-y-4">
           {[
-            { title: "Outstanding Teacher Award", detail: "AISU, USA, 2018" },
-            { title: "Harvard South Asia Education Initiative", detail: "Research & policy engagement" },
-            { title: "TEDx Curator", detail: "TEDxMICA — curated speaker programme" },
+            { title: "Outstanding Teacher Award", detail: "Murray City, USA, 2018" },
+            { title: "Head of Communications — Harvard South Asia Education Initiative", detail: "2016 – 2017" },
+            { title: "TEDx Curator", detail: "TEDx City2.0, Mumbai, 2012 – 2013" },
           ].map((a) => (
             <div key={a.title} className="flex items-start gap-3">
               <span className="mt-1.5 h-2 w-2 shrink-0 rounded-full bg-accent" />
