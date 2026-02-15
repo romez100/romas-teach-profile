@@ -144,7 +144,7 @@ const Index = () => {
             <li><strong className="text-foreground">KS3 Coordinator —</strong> Redesigned the Year 7–9 curriculum aligned with White Rose, introduced half-termly assessments, and led standardisation meetings.</li>
             <li><strong className="text-foreground">Numeracy Coordinator —</strong> Launched a whole-school numeracy strategy including Numeracy Ninjas, cross-curricular workshops, and a staff toolkit adopted across ten departments.</li>
             <li><strong className="text-foreground">Instructional Coach —</strong> Line-managed four teachers using the Leverage Leadership model, delivering weekly observation–feedback cycles that improved T&L ratings.</li>
-            <li><strong className="text-foreground">Data & Intervention —</strong> Used FFT and internal data to design targeted Year 11 intervention groups, contributing to a 12 pp rise in Grade 4+ outcomes.</li>
+            <li><strong className="text-foreground">Data & Intervention —</strong> Used assessment analysis to identify priority cohorts (including SEND, PP and underachieving pupils), reshaping intervention groups and monitoring impact through regular data review and work scrutiny.</li>
             <li><strong className="text-foreground">SCITT & ECT Mentor —</strong> Mentored trainee and early-career teachers through structured programmes (UCL / Sutton SCITT).</li>
           </ul>
         </div>
