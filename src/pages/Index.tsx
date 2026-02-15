@@ -170,6 +170,30 @@ const Index = () => {
         </div>
       </Section>
 
+      {/* ── Pastoral ── */}
+      <Section id="pastoral">
+        <SectionTitle icon={BookOpen}>Pastoral & Co-Curricular Leadership</SectionTitle>
+        <div className="space-y-4">
+          {[
+            { title: "Whole-School CPD (150 staff)", detail: "Co-designed and co-delivered session on effective homework marking and DIRT, strengthening consistency and impact of written feedback across departments." },
+            { title: "Inclusion Committee CPD (150 staff)", detail: "Co-led a session on facilitating sensitive classroom discussions through an inclusion lens, providing practical routines, language and strategies to support respectful, safe dialogue." },
+            { title: "Form Tutor (Y7–Y11)", detail: "Provided daily pastoral care, academic mentoring, and wellbeing support; guided pupils through GCSE transition and option pathways." },
+            { title: "A-Level Tutor", detail: "Delivered contextual mentoring, university/careers guidance, and structured academic monitoring to support post-18 progression." },
+            { title: "Challenge Week Facilitator", detail: "Delivered interdisciplinary sessions on Art, Media, and the significance of teamwork, fostering collaboration and creative thinking." },
+            { title: "Founder & Lead – AI Club", detail: "Established and lead weekly enrichment exploring artificial intelligence, ethics, and emerging technologies." },
+            { title: "Lead – Puzzle & Board Games Club", detail: "Lead a strategic thinking and problem-solving club promoting resilience, collaboration, and logical reasoning." },
+          ].map((p) => (
+            <div key={p.title} className="flex items-start gap-3">
+              <span className="mt-1.5 h-2 w-2 shrink-0 rounded-full bg-accent" />
+              <div>
+                <p className="font-medium">{p.title}</p>
+                <p className="text-sm text-muted-foreground">{p.detail}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </Section>
+
       {/* ── Recognitions ── */}
       <Section id="awards">
         <SectionTitle icon={Award}>Recognitions</SectionTitle>
